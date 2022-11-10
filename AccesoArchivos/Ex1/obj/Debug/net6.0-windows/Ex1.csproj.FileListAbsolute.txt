@@ -1,0 +1,17 @@
+G:\Mi unidad\02.PROG SERV\Tema2\T2Serv\AccesoArchivos\Ex1\bin\Debug\net6.0-windows\Ex1.exe
+G:\Mi unidad\02.PROG SERV\Tema2\T2Serv\AccesoArchivos\Ex1\bin\Debug\net6.0-windows\Ex1.deps.json
+G:\Mi unidad\02.PROG SERV\Tema2\T2Serv\AccesoArchivos\Ex1\bin\Debug\net6.0-windows\Ex1.runtimeconfig.json
+G:\Mi unidad\02.PROG SERV\Tema2\T2Serv\AccesoArchivos\Ex1\bin\Debug\net6.0-windows\Ex1.dll
+G:\Mi unidad\02.PROG SERV\Tema2\T2Serv\AccesoArchivos\Ex1\bin\Debug\net6.0-windows\Ex1.pdb
+G:\Mi unidad\02.PROG SERV\Tema2\T2Serv\AccesoArchivos\Ex1\obj\Debug\net6.0-windows\Ex1.csproj.AssemblyReference.cache
+G:\Mi unidad\02.PROG SERV\Tema2\T2Serv\AccesoArchivos\Ex1\obj\Debug\net6.0-windows\Ex1.Form1.resources
+G:\Mi unidad\02.PROG SERV\Tema2\T2Serv\AccesoArchivos\Ex1\obj\Debug\net6.0-windows\Ex1.csproj.GenerateResource.cache
+G:\Mi unidad\02.PROG SERV\Tema2\T2Serv\AccesoArchivos\Ex1\obj\Debug\net6.0-windows\Ex1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\02.PROG SERV\Tema2\T2Serv\AccesoArchivos\Ex1\obj\Debug\net6.0-windows\Ex1.AssemblyInfoInputs.cache
+G:\Mi unidad\02.PROG SERV\Tema2\T2Serv\AccesoArchivos\Ex1\obj\Debug\net6.0-windows\Ex1.AssemblyInfo.cs
+G:\Mi unidad\02.PROG SERV\Tema2\T2Serv\AccesoArchivos\Ex1\obj\Debug\net6.0-windows\Ex1.csproj.CoreCompileInputs.cache
+G:\Mi unidad\02.PROG SERV\Tema2\T2Serv\AccesoArchivos\Ex1\obj\Debug\net6.0-windows\Ex1.dll
+G:\Mi unidad\02.PROG SERV\Tema2\T2Serv\AccesoArchivos\Ex1\obj\Debug\net6.0-windows\refint\Ex1.dll
+G:\Mi unidad\02.PROG SERV\Tema2\T2Serv\AccesoArchivos\Ex1\obj\Debug\net6.0-windows\Ex1.pdb
+G:\Mi unidad\02.PROG SERV\Tema2\T2Serv\AccesoArchivos\Ex1\obj\Debug\net6.0-windows\Ex1.genruntimeconfig.cache
+G:\Mi unidad\02.PROG SERV\Tema2\T2Serv\AccesoArchivos\Ex1\obj\Debug\net6.0-windows\ref\Ex1.dll
