@@ -15,3 +15,4 @@ G:\Mi unidad\02.PROG SERV\Tema2\T2Serv\AccesoArchivos\Ex1\obj\Debug\net6.0-windo
 G:\Mi unidad\02.PROG SERV\Tema2\T2Serv\AccesoArchivos\Ex1\obj\Debug\net6.0-windows\Ex1.pdb
 G:\Mi unidad\02.PROG SERV\Tema2\T2Serv\AccesoArchivos\Ex1\obj\Debug\net6.0-windows\Ex1.genruntimeconfig.cache
 G:\Mi unidad\02.PROG SERV\Tema2\T2Serv\AccesoArchivos\Ex1\obj\Debug\net6.0-windows\ref\Ex1.dll
+G:\Mi unidad\02.PROG SERV\Tema2\T2Serv\AccesoArchivos\Ex1\obj\Debug\net6.0-windows\Ex1.Form2.resources

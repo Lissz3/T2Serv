@@ -36,6 +36,8 @@
 			this.label2 = new System.Windows.Forms.Label();
 			this.label3 = new System.Windows.Forms.Label();
 			this.lblError = new System.Windows.Forms.Label();
+			this.lblSize = new System.Windows.Forms.Label();
+			this.btnChange = new System.Windows.Forms.Button();
 			this.SuspendLayout();
 			// 
 			// txbPath
@@ -44,7 +46,6 @@
 			this.txbPath.Name = "txbPath";
 			this.txbPath.Size = new System.Drawing.Size(172, 23);
 			this.txbPath.TabIndex = 0;
-			this.txbPath.KeyUp += new System.Windows.Forms.KeyEventHandler(this.TxbPath_KeyUp);
 			// 
 			// btnIn
 			// 
@@ -65,6 +66,10 @@
 			this.lbSubDir.Size = new System.Drawing.Size(259, 199);
 			this.lbSubDir.TabIndex = 2;
 			this.lbSubDir.Tag = "Sub";
+			this.lbSubDir.SelectedIndexChanged += new System.EventHandler(this.LbSubDir_SelectedIndexChanged);
+			this.lbSubDir.Enter += new System.EventHandler(this.LbSubDir_Enter);
+			this.lbSubDir.Leave += new System.EventHandler(this.LbSubDir_Leave);
+			this.lbSubDir.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.MyMouseDoubleClick);
 			// 
 			// lbFiles
 			// 
@@ -75,6 +80,7 @@
 			this.lbFiles.Size = new System.Drawing.Size(259, 199);
 			this.lbFiles.TabIndex = 3;
 			this.lbFiles.Tag = "File";
+			this.lbFiles.SelectedIndexChanged += new System.EventHandler(this.LbFiles_SelectedIndexChanged);
 			// 
 			// lblDir
 			// 
@@ -113,11 +119,33 @@
 			this.lblError.Size = new System.Drawing.Size(0, 15);
 			this.lblError.TabIndex = 7;
 			// 
+			// lblSize
+			// 
+			this.lblSize.AutoSize = true;
+			this.lblSize.Location = new System.Drawing.Point(287, 300);
+			this.lblSize.Name = "lblSize";
+			this.lblSize.Size = new System.Drawing.Size(113, 15);
+			this.lblSize.TabIndex = 8;
+			this.lblSize.Text = "Tamaño del archivo:";
+			// 
+			// btnChange
+			// 
+			this.btnChange.AutoSize = true;
+			this.btnChange.Location = new System.Drawing.Point(74, 300);
+			this.btnChange.Name = "btnChange";
+			this.btnChange.Size = new System.Drawing.Size(132, 25);
+			this.btnChange.TabIndex = 9;
+			this.btnChange.Text = "Cambiar de directorio";
+			this.btnChange.UseVisualStyleBackColor = true;
+			this.btnChange.Click += new System.EventHandler(this.BtnChange_Click);
+			// 
 			// Form1
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(558, 307);
+			this.ClientSize = new System.Drawing.Size(558, 330);
+			this.Controls.Add(this.btnChange);
+			this.Controls.Add(this.lblSize);
 			this.Controls.Add(this.lblError);
 			this.Controls.Add(this.label3);
 			this.Controls.Add(this.label2);
@@ -127,6 +155,7 @@
 			this.Controls.Add(this.btnIn);
 			this.Controls.Add(this.txbPath);
 			this.Name = "Form1";
+			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
 			this.Text = "Form1";
 			this.ResumeLayout(false);
 			this.PerformLayout();
@@ -143,5 +172,7 @@
 		private Label label2;
 		private Label label3;
 		private Label lblError;
+		private Label lblSize;
+		private Button btnChange;
 	}
 }
