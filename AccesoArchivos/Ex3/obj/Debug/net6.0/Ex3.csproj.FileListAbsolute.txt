@@ -1,0 +1,15 @@
+G:\Mi unidad\04.DESENV INTERF\1EV\Tema2\SolucionPOO - copia\Boletin2POO\Ex3\obj\Debug\net6.0\Ex3.csproj.AssemblyReference.cache
+G:\Mi unidad\04.DESENV INTERF\1EV\Tema2\SolucionPOO - copia\Boletin2POO\Ex3\obj\Debug\net6.0\Ex3.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\04.DESENV INTERF\1EV\Tema2\SolucionPOO - copia\Boletin2POO\Ex3\obj\Debug\net6.0\Ex3.AssemblyInfoInputs.cache
+G:\Mi unidad\04.DESENV INTERF\1EV\Tema2\SolucionPOO - copia\Boletin2POO\Ex3\obj\Debug\net6.0\Ex3.AssemblyInfo.cs
+G:\Mi unidad\04.DESENV INTERF\1EV\Tema2\SolucionPOO - copia\Boletin2POO\Ex3\obj\Debug\net6.0\Ex3.csproj.CoreCompileInputs.cache
+G:\Mi unidad\04.DESENV INTERF\1EV\Tema2\SolucionPOO - copia\Boletin2POO\Ex3\bin\Debug\net6.0\Ex3.exe
+G:\Mi unidad\04.DESENV INTERF\1EV\Tema2\SolucionPOO - copia\Boletin2POO\Ex3\bin\Debug\net6.0\Ex3.deps.json
+G:\Mi unidad\04.DESENV INTERF\1EV\Tema2\SolucionPOO - copia\Boletin2POO\Ex3\bin\Debug\net6.0\Ex3.runtimeconfig.json
+G:\Mi unidad\04.DESENV INTERF\1EV\Tema2\SolucionPOO - copia\Boletin2POO\Ex3\bin\Debug\net6.0\Ex3.dll
+G:\Mi unidad\04.DESENV INTERF\1EV\Tema2\SolucionPOO - copia\Boletin2POO\Ex3\bin\Debug\net6.0\Ex3.pdb
+G:\Mi unidad\04.DESENV INTERF\1EV\Tema2\SolucionPOO - copia\Boletin2POO\Ex3\obj\Debug\net6.0\Ex3.dll
+G:\Mi unidad\04.DESENV INTERF\1EV\Tema2\SolucionPOO - copia\Boletin2POO\Ex3\obj\Debug\net6.0\refint\Ex3.dll
+G:\Mi unidad\04.DESENV INTERF\1EV\Tema2\SolucionPOO - copia\Boletin2POO\Ex3\obj\Debug\net6.0\Ex3.pdb
+G:\Mi unidad\04.DESENV INTERF\1EV\Tema2\SolucionPOO - copia\Boletin2POO\Ex3\obj\Debug\net6.0\Ex3.genruntimeconfig.cache
+G:\Mi unidad\04.DESENV INTERF\1EV\Tema2\SolucionPOO - copia\Boletin2POO\Ex3\obj\Debug\net6.0\ref\Ex3.dll
